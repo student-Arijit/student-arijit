@@ -9,7 +9,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
 
 - :University: I am a `Student` at [University of Calcutta](http://suez.edu.eg/ar/).
 - :technologist: I love using Software as a solution for every `Problem`.
@@ -25,7 +24,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=student-arijit" alt="student-arijit" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=student-Arijit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 📫 How to reach me
