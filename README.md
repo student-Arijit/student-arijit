@@ -5,8 +5,7 @@
 
 <be>
 	
-<p style="font-size: 25px; font-weight: bold; margin-bottom: 0;">About me</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="margin-top: 0;">
+<h1>About me</h1>
 
 <br>
 
@@ -16,14 +15,17 @@
 - Personal website [link]()
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
-<br><br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=student-arijit&label=Profile%20views&color=0e75b6&style=plastic" alt="student-arijit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=student-arijit" alt="student-arijit" /></a> </p>
 
-- 📫 How to reach me **arijitchowdhury4467@gmail.com**
 
+- 📫 How to reach me
+
+<a href="mailto:arijitchowdhury4467@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Arijit Chowdhury-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/arijit chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arijit chowdhury" height="30" width="40" /></a>
@@ -174,3 +176,4 @@
 Credit: [Arijit Chowdhury]()
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
