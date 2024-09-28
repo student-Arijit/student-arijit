@@ -5,12 +5,14 @@
 
 <be>
 	
-<h1>About me</h1>
+<p style="font-size: 25px; font-weight: bold; margin-bottom: 0;">About me</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="margin-top: 0;">
+
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught Web-developer, App Developer, Software Developer
 - Playing CTF's at spare time
-- Currently learning Web Development by Self
+- Currently learning Web Development, App Development, Software Development by Self
 - Personal website [link]()
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
@@ -43,7 +45,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
