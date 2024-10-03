@@ -50,9 +50,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=student-arijit&show_icons=true&theme=dark&locale=en&layout=compact" alt="student-arijit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=student-arijit&show_icons=true&theme=dark&locale=en&layout=compact" alt="student-arijit" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=student-arijit&show_icons=true&theme=dark&locale=en" alt="student-arijit" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=student-arijit&show_icons=true&theme=dark&locale=en" alt="student-arijit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=student-arijit&theme=dark" alt="student-arijit" /></p>
 
