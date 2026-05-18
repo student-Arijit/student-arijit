@@ -1,4 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=student-arijit&label=Profile%20views&color=0e75b6&style=plastic" alt="student-arijit" /> </p>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=student-arijit&label=Profile%20views&color=0e75b6&style=plastic" alt="student-arijit" />
+  <!---<img src="https://visitor-badge.laobi.icu/badge?page_id=student-arijit&right_color=cornflowerblue&left_text=Visitors"/>--->
+</div>
 
 <h1 align="center"><b>Hello , I'm Arijit Chowdhury </b></h1>
 <p align="center">
@@ -15,8 +18,8 @@
 <table border="2">
   <tr>
     <td valign="top">
-
-## Professional Journey
+      
+## Introduction
   - 🎓 I am a `B.Sc Graduate` at [University of Calcutta](https://www.caluniv.ac.in/).
   - 💻 I love using Software as a solution for every `Problem`.
   - 👨‍💻 I am a competitive programmer at `Codeforces`, `Atcoder`, <a href="https://leetcode.com/u/_a_c/" style="text-decoration: none; color: white">`Leetcode`</a>, `Codechef`, `Google Contests`.
@@ -54,6 +57,9 @@
 >  <td align="center"><img width="32" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></td>
 >  <td align="center"><img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/120px-Dart-logo-icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20220708094810"/></td>
 > <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/727f89f4-1323-4fd1-be23-96d1e01e5a82"/></td>
+> <td align="center"><img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20221110153201"/></td>
+> <td align="center"><img width="32" height="32" src="https://www.svgrepo.com/show/353478/bash-icon.svg"/></td>
+> <td align="center"><img width="32" height="32" src="https://icon.icepanel.io/Technology/svg/MATLAB.svg"/></td>
 >  </tr>
 >  <tr>
 >  <td align="center">C</td>
@@ -61,20 +67,138 @@
 >  <td align="center">Java</td>
 >  <td align="center">Python</td>
 >  <td align="center">Dart</td>
->  <td align="center">JS</td>
+>  <td align="center">JavaScript</td>
+>  <td align="center">TypeScript</td>
+>  <td align="center">ShellScript</td>
+>  <td align="center">MATLAB</td>
+>  </tr>
+> </table> 
+
+> ### Markup Languages
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/6900cec6-a153-4c4e-984b-c6dbc81da0ea"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/64331105-f406-490b-82e3-9a2e6d8b633a"/></td>
+>  <td align="center"><img width="32" height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/overleaf-latex-editor-icon.png"/></td>
+>  <td align="center"><img width="32" height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/file-xml-color-red-icon.png"/></td>
+>  </tr>
+>  <tr>
+>  <td align="center">HTML</td>
+>  <td align="center">CSS</td>
+>  <td align="center">Latex</td>
+>  <td align="center">XML</td>
+>  </tr>
+> </table> 
+
+> ### Libraries & Frameworks
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="32" height="32" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg"/></td>
+>  <td align="center"><img width="28" height="28" src="https://icon.icepanel.io/Technology/svg/Flutter.svg"/></td>
+>  <td align="center"><img width="32" height="32" src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png"/></td>
+>  <td align="center"><img width="38" height="38" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png"/></td>
+>  <td align="center"><img width="32" height="32" src="https://icon.icepanel.io/Technology/svg/React.svg"/></td>
+>  <td align="center"><img width="38" height="38" src="https://github.com/user-attachments/assets/7b638c45-ad76-4dd9-a0d5-2016ce97cc16"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/79641809-c1c7-46f0-8d1c-1c9e8ec15be1"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/9e2ca9e9-9a0a-4ca6-95c6-603a885ae121"/></td>
+>
+>  </tr>
+>  <tr>
+>  <td>Tailwind</td>
+>  <td>Flutter</td>
+>  <td>Django</td>
+>  <td>Flask</td>
+>  <td>React</td>
+>  <td>Node.js</td>
+>  <td>Vite.js</td>
+>  <td>Next.js</td>
+>  </tr>
+> </table> 
+
+> ### Data Science & AI/ML
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="32" height="32" src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png"/></td>
+>  <td align="center"><img width="28" height="28" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg"/></td>
+>  <td align="center"><img width="32" height="32" src="https://icon.icepanel.io/Technology/svg/NumPy.svg"/></td>
+>  <td align="center"><img width="28" height="28" src="https://icon.icepanel.io/Technology/svg/PyTorch.svg"/></td>
+>  <td align="center"><img width="32" height="32" src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg"/></td>
+>  <td align="center"><img width="28" height="28" src="https://icon.icepanel.io/Technology/svg/Streamlit.svg"/></td>
+>  <td align="center"><img width="28" height="28" src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg"/></td>
+>  </tr>
+>  <tr>
+>  <td>Pandas</td>
+>  <td>Scikit-Learn</td>
+>  <td>NumPy</td>
+>  <td>PyTorch</td>
+>  <td>Tensorflow</td>
+>  <td>Streamlit</td>
+>  <td>Matplotlib</td>
+>  </tr>
+> </table> 
+
+
+> ### Cloud, DevOps & Data Engineering Tools
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/7342b5ba-48e6-4d3f-8d66-49d2cd0eaa85"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/6b627d19-e1c5-45c7-9f8b-4e7ceb30588e"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/38dfba4e-d01f-4e63-95a2-ad6a6b1271ce"/></td>
+>  <td align="center"><img width="32" height="32" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/bd89f06e-bc58-4f48-b618-b9158992243f"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/a11a712b-d78b-47d5-ba8a-662525bdb5ca"/></td>
+>
+>  </tr>
+>  <tr>
+>  <td>Google Cloud</td>
+>  <td>Azure</td>
+>  <td>Snowflake</td>
+>  <td>AWS</td>
+>  <td>MongoDB</td>
+>  <td>Docker</td>
+>  </tr>
+> </table> 
+
+> ### Developer Tools
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/c8c903ba-cfe8-418e-8192-24fb74e8f5f0"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/c9d4f3de-d068-4a1e-823b-d869f9d4b7ae"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/38a1fb7b-08bf-454e-bc6b-8569bc528180"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/1038405c-344f-4973-8ad8-230ebee13fba"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/e2b1cda8-2eff-421e-9120-5d48aad0348f"/></td>
+>
+>  </tr>
+>  <tr>
+>  <td>Git</td>
+>  <td>Github</td>
+>  <td>VS Code</td>
+>  <td>Jetbrains</td>
+>  <td>Jupiter Notebook</td>
 >  </tr>
 > </table> 
 
 
 
+> ### Operating Systems
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="32" height="32" src="https://icon.icepanel.io/Technology/svg/Windows-11.svg"/></td>
+>  <td align="center"><img width="32" height="32" src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png"/></td>
+>  <td align="center"><img width="32" height="32" src="https://icon.icepanel.io/Technology/svg/Android.svg"/></td>
+>
+>  </tr>
+>  <tr>
+>  <td>Windows</td>
+>  <td>Linux</td>
+>  <td>Andriod</td>
+>  </tr>
+> </table>
+
+---
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=student-Arijit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-<h1 align="left" style="color: white;">Connect with me:</h1>
+<h1 align="left" style="color: white;">Socials:</h1>
 
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
@@ -82,31 +206,21 @@
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
 </p>
 
-
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
+<!---Github Stat--->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<div align ="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=student-arijit&theme=zenburn)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=student-arijit&theme=zenburn&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=student-arijit&theme=zenburn)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=student-arijit&theme=zenburn)
+    
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=student-arijit&theme=dark" alt="student-arijit" /></p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=student-arijit&show_icons=true&theme=dark&locale=en&layout=compact" alt="student-arijit" /></p><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=student-arijit&show_icons=true&theme=dark&locale=en" alt="student-arijit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=student-arijit&theme=dark" alt="student-arijit" /></p>
-
-
+<!---for graph: ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=student-arijit&theme=zenburn)--->
 Credit: [Arijit Chowdhury](https://github.com/student-Arijit)
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
-
-
-
-
+---
