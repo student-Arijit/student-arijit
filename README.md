@@ -1,30 +1,54 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=student-arijit&label=Profile%20views&color=0e75b6&style=plastic" alt="student-arijit" /> </p>
+
 <h1 align="center"><b>Hello , I'm Arijit Chowdhury </b></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Arijit+Chowdhury;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <be>
-	
+
+
+
 <h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me</h1>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+<table border="2">
+  <tr>
+    <td valign="top">
 
-- :University: I am a `Student` at [University of Calcutta](http://suez.edu.eg/ar/).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, <a href="https://leetcode.com/u/_a_c/" style="text-decoration: none; color: white">`Leetcode`</a>, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
-- :boom: You can visit [MY WEBSITE]().
-- 📫 How to reach me
+## Professional Journey
+  - 🎓 I am a `B.Sc Graduate` at [University of Calcutta](https://www.caluniv.ac.in/).
+  - 💻 I love using Software as a solution for every `Problem`.
+  - 👨‍💻 I am a competitive programmer at `Codeforces`, `Atcoder`, <a href="https://leetcode.com/u/_a_c/" style="text-decoration: none; color: white">`Leetcode`</a>, `Codechef`, `Google Contests`.
+  - 🧑‍🎓 I’m currently learning `Data Science` and `Software Engineering`.
+  - 🤓 Always `learning new things`.
+  - 🔭 I’m looking to collaborate on `Data Science` and `Machine Learning` projects
+  - 🌱 Currently improving my skills in `Full Stack Development`, `Data Science` and `Machine Learning`.
+  - 📚 I enjoy exploring new technologies and contributing to open-source projects.
 
+  <div style="display: flex; gap: 2px; align-items: center;">
 <a href="mailto:arijitchowdhury4467@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Arijit Chowdhury-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/gmail:  Arijit Chowdhury-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+</a>
+
+<a href="https://arijitchowdhuryportfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio"/>
+</a>
+</div>
+
+  </td>
+  <td width="37%">
+      <picture> <img align="right" src="assets/typing.gif" width = 350px></picture>
+    </td>
+  </tr>
+</table>
+
+
+
 <br><br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=student-arijit&label=Profile%20views&color=0e75b6&style=plastic" alt="student-arijit" /> </p>
+
 
 
 
