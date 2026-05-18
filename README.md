@@ -23,8 +23,6 @@
   - 🧑‍🎓 I’m currently learning `Data Science` and `Software Engineering`.
   - 🤓 Always `learning new things`.
   - 🔭 I’m looking to collaborate on `Data Science` and `Machine Learning` projects
-  - 🌱 Currently improving my skills in `Full Stack Development`, `Data Science` and `Machine Learning`.
-  - 📚 I enjoy exploring new technologies and contributing to open-source projects.
 
   <div style="display: flex; gap: 2px; align-items: center;">
 <a href="mailto:arijitchowdhury4467@gmail.com" target="_blank">
@@ -38,7 +36,7 @@
 
   </td>
   <td width="37%">
-      <picture> <img align="right" src="assets/typing.gif" width = 350px></picture>
+      <picture> <img align="right" src="assets/typing.gif" width = "auto"></picture>
     </td>
   </tr>
 </table>
