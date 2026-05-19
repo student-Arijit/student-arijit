@@ -1,19 +1,17 @@
-<div align="right">
+<div align="right" id="top">
   <img src="https://komarev.com/ghpvc/?username=student-arijit&label=Profile%20views&color=0e75b6&style=plastic" alt="student-arijit" />
   <!---<img src="https://visitor-badge.laobi.icu/badge?page_id=student-arijit&right_color=cornflowerblue&left_text=Visitors"/>--->
 </div>
 
 <h1 align="center"><b>Hello , I'm Arijit Chowdhury </b></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Arijit+Chowdhury;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
 
-<be>
-
-
+<h1 align="center">
+    <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=cyan&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;I'm+Arijit+Chowdhury;Computer+Science+Student,;Data-Science+Enthusiast,;" />
+    </a>
+</h1>
 
 <h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me</h1>
-
 
 <table border="2">
   <tr>
@@ -104,14 +102,14 @@
 >
 >  </tr>
 >  <tr>
->  <td>Tailwind</td>
->  <td>Flutter</td>
->  <td>Django</td>
->  <td>Flask</td>
->  <td>React</td>
->  <td>Node.js</td>
->  <td>Vite.js</td>
->  <td>Next.js</td>
+>  <td align="center">Tailwind</td>
+>  <td align="center">Flutter</td>
+>  <td align="center">Django</td>
+>  <td align="center">Flask</td>
+>  <td align="center">React</td>
+>  <td align="center">Node.js</td>
+>  <td align="center">Vite.js</td>
+>  <td align="center">Next.js</td>
 >  </tr>
 > </table> 
 
@@ -127,13 +125,13 @@
 >  <td align="center"><img width="28" height="28" src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg"/></td>
 >  </tr>
 >  <tr>
->  <td>Pandas</td>
->  <td>Scikit-Learn</td>
->  <td>NumPy</td>
->  <td>PyTorch</td>
->  <td>Tensorflow</td>
->  <td>Streamlit</td>
->  <td>Matplotlib</td>
+>  <td align="center">Pandas</td>
+>  <td align="center">Scikit-Learn</td>
+>  <td align="center">NumPy</td>
+>  <td align="center">PyTorch</td>
+>  <td align="center">Tensorflow</td>
+>  <td align="center">Streamlit</td>
+>  <td align="center">Matplotlib</td>
 >  </tr>
 > </table> 
 
@@ -150,12 +148,12 @@
 >
 >  </tr>
 >  <tr>
->  <td>Google Cloud</td>
->  <td>Azure</td>
->  <td>Snowflake</td>
->  <td>AWS</td>
->  <td>MongoDB</td>
->  <td>Docker</td>
+>  <td align="center">Google Cloud</td>
+>  <td align="center">Azure</td>
+>  <td align="center">Snowflake</td>
+>  <td align="center">AWS</td>
+>  <td align="center">MongoDB</td>
+>  <td align="center">Docker</td>
 >  </tr>
 > </table> 
 
@@ -170,11 +168,11 @@
 >
 >  </tr>
 >  <tr>
->  <td>Git</td>
->  <td>Github</td>
->  <td>VS Code</td>
->  <td>Jetbrains</td>
->  <td>Jupiter Notebook</td>
+>  <td align="center">Git</td>
+>  <td align="center">Github</td>
+>  <td align="center">VS Code</td>
+>  <td align="center">Jetbrains</td>
+>  <td align="center">Jupiter Notebook</td>
 >  </tr>
 > </table> 
 
@@ -189,24 +187,43 @@
 >
 >  </tr>
 >  <tr>
->  <td>Windows</td>
->  <td>Linux</td>
->  <td>Andriod</td>
+>  <td align="center">Windows</td>
+>  <td align="center">Linux</td>
+>  <td align="center">Andriod</td>
 >  </tr>
 > </table>
 
 ---
 
 
-<h1 align="left" style="color: white;">Socials:</h1>
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Nic2Z2ODc5ZWNhMDlicDF2OWNzc3l0bHp2b2NtN3Vrb3lyMWtzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/65qzUZckzeWG1wugLW/giphy.gif" width="35">  <b>Socials:</b>
 
-<p align="center">
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+    </td>
+    <td align="center">
+      <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>
+    </td>
+    <td align="center">
+      <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+    </td>
+    <td align="center">
+      <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/960px-2023_Facebook_icon.svg.png?_=20231011122028" alt="facebook" height="50" width="50" /></a>
+    </td>
+    <td align="center">
+      <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">linkedin</td>
+    <td align="center">Twitter</td>
+    <td align="center">Instagram</td>
+    <td align="center">Facebook</td>
+    <td align="center">Discord</td>
+  </tr>
+</table>
 
 <!---Github Stat--->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -221,6 +238,6 @@
 </div>
 
 <!---for graph: ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=student-arijit&theme=zenburn)--->
-Credit: [Arijit Chowdhury](https://github.com/student-Arijit)
+Credit: [Arijit Chowdhury](https://github.com/student-Arijit) <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=87CEEB&style=flat&logo" alt="back to top" /></a></p>
 
 ---
